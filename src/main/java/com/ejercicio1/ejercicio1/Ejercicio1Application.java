@@ -10,6 +10,7 @@ public class Ejercicio1Application {
 		// SpringApplication.run(Ejercicio1Application.class, args);
 		// System.out.printf("Hello and welcome!");
 		System.out.printf("Welcome to JavaBank ATM! Version control with Git.");
+		System.out.printf("AGREGANDO UNA FUNCIONALIDAD MAS");
 		for (int i=1;i<=5;i++)
 		{
 			System.out.println("i= "+i);
